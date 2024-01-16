@@ -20,10 +20,10 @@
             <div class="box-ce">
                 <img class="promo ce-image" src="img/cover_section1/1160x300_ce04.webp" alt="Imagen_ce">
                 <div class="text_ce">
-                    <p class="h1_ce">BMW CE 04</p>
+                    <p class="h1_c">BMW CE 04</p>
                     <p class="text_oferta">100% eléctrico desde 159€/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site-ce">Más información</button></a>
+                        <a href="#"><button class="site">Más información</button></a>
                     </div>
                 </div>
             </div>
@@ -33,14 +33,43 @@
                     <p class="h1_c">GAMA C 400</p>
                     <p class="text_oferta">Con connected Ride y mantenimiento incluido desde 89€/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site-ce">Más información</button></a>
+                        <a href="#"><button class="site">Más información</button></a>
                     </div>
                 </div>
             </div>
 
-            <img class="promo" src="img/cover_section1/f750gs.webp" alt="Imagen_f750">
-            <img class="promo" src="img/cover_section1/r18.webp" alt="Imagen_r18">
-            <img class="promo" src="img/cover_section1/rookie.webp" alt="Imagen_rookie">
+            <div class="box-f750">
+                <img class="promo f850-image" src="img/cover_section1/f750gs.webp" alt="Imagen_f750">
+                <div class="text_f750">
+                    <p class="h1_c">BMW F 750 GS</p>
+                    <p class="text_oferta">Ahora sin entrada y con Connected Ride incluido desde 155 €/mes</p>
+                    <div class="content-button-oferta">
+                        <a href="#"><button class="site">Más información</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="box-r18">
+                <img class="promo" src="img/cover_section1/r18.webp" alt="Imagen_r18">
+                <div class="text_r18">
+                    <p class="h1_c">BMW R 18</p>
+                    <p class="text_oferta">Desde 195 €/mes</p>
+                    <div class="content-button-oferta">
+                        <a href="#"><button class="site">Más información</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="box_rookie">
+                <img class="promo" src="img/cover_section1/rookie.webp" alt="Imagen_rookie">
+                <div class="text_rookie">
+                    <p class="h1_c">Programa Rookie</p>
+                    <p class="text_oferta">Ahora t G 310 al 0%. = entrada, 0% comisiones, 0% TAE</p>
+                    <div class="content-button-oferta">
+                        <a href="#"><button class="site">Más información</button></a>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="equipamiento_container">
