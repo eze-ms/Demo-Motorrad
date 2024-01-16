@@ -1,17 +1,17 @@
 <modelo>
-    <imagen_cover>img/c400x/c400x.webp</imagen_cover>
+    <imagen_cover>http://www.demomotorrad.com.mialias.net/img/c400x/c400x.webp</imagen_cover>
     
     <titulo_modelo> BMW C 400 X</titulo_modelo>
     <subTitulo_modelo>DESCUBRE TU CIUDAD CURVA A CURVA</subTitulo_modelo>
     <texto_modelo>
         Sé espontáneo. Vuelve a descubrir tu ciudad. En ruta y, aun así, conectado. El BMW C 400 X  con el nuevo Ride by Wire. Más que un medio de transporte. Muévete por la ciudad controlando la situación en todo momento y escuchando tu música preferida. El sistema opcional Connected Ride lo hace posible. Tu ciudad, tu terreno de juego.</texto_modelo>
-    <imagen_principal>img/c400x/c400x-r1.jpeg</imagen_principal>
+    <imagen_principal>http://www.demomotorrad.com.mialias.net/img/c400x/c400x-r1.jpeg</imagen_principal>
 
     <titulo_disenyo>DISEÑO ÁGIL</titulo_disenyo>
     <colores>
-        <color col='img/c400x/red.jpeg' nombre='red' clase='active'>img/c400x/c400x-red.webp</color>
-        <color col='img/c400x/white.jpeg' nombre='white' clase='hidden'>img/c400x/c400x-white.webp</color>
-        <color col='img/c400x/black.jpeg' nombre='black' clase='hidden'>img/c400x/c400x-black.webp</color>
+        <color col='http://www.demomotorrad.com.mialias.net/img/c400x/red.jpeg' nombre='red' clase='active'>http://www.demomotorrad.com.mialias.net/img/c400x/c400x-red.webp</color>
+        <color col='http://www.demomotorrad.com.mialias.net/img/c400x/white.jpeg' nombre='white' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/c400x/c400x-white.webp</color>
+        <color col='http://www.demomotorrad.com.mialias.net/img/c400x/black.jpeg' nombre='black' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/c400x/c400x-black.webp</color>
     </colores>
-    <imagen_form>img/c400x/c400x_form.webp</imagen_form>
+    <imagen_form>http://www.demomotorrad.com.mialias.net/img/c400x/c400x_form.webp</imagen_form>
 </modelo>
