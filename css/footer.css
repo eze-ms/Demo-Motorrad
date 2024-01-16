@@ -1,0 +1,84 @@
+.footernavigation{
+    font-weight: 300;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.content_footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.bloc_letter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bloc_letter>p, .content_box_letter {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    letter-spacing: 0.08rem;
+}
+
+.box_mail_left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box_mail_left> ul{
+    display: flex;
+}
+
+.content_box_letter{
+    background-color: #fff;
+    color: #000;
+    border: 3px solid #fff;
+    padding: 1rem 0;
+    text-align: center;
+    width: 100%;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.content_box_letter:hover{
+    background-color: #000000;
+    border: 3px solid #fff;
+    color: #fff;
+}
+
+.fa-envelope{
+    font-size: 1.5rem;
+}
+
+.info{
+    margin-left: 0.5rem;
+    vertical-align: 3px;
+}
+
+.rrss:not(:last-child) a {
+    margin-right: 1rem;
+}
+
+.box_list_right{
+    display: flex;
+}
+
+.box_categorias_left{
+    margin-right: 5rem;
+}
+
+.box_categorias_left>a>p,
+.box_categorias_right>a>p{
+    line-height: 30px;
+}
+
+.box_categorias_left a:hover p,
+.box_categorias_right a:hover p {
+    text-decoration: underline;
+}
+
+

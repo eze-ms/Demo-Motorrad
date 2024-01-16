@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tipos>
+    <tipo>Adventure</tipo>
+    <tipo>Heritage</tipo>
+    <tipo>Touring</tipo>
+    <tipo>Urban Mobility</tipo>
+    <tipo>Sport</tipo>
+</tipos>
+
+

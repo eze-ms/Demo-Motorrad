@@ -1,0 +1,60 @@
+.content-lista {
+    padding: 25px;
+}
+
+.lista_motos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lista_motos > li {
+    flex-basis: 25%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.lista_motos > li:not(:last-child) {
+    padding-right: 15px;
+}
+
+/* Para el primer elemento de la lista */
+.lista_motos > li:first-child {
+    padding-left: 0;
+}
+
+/* Para todos los elementos menos el último */
+.lista_motos > li:not(:last-child) {
+    padding-right: 15px;
+}
+
+
+.lista_motos > li > h2 {
+    text-align: left;
+}
+
+.lista_motos > li > ul > li {
+    text-align: left;
+}
+
+.lista_motos > li > ul > li > img {
+    width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+}
+
+.content-tittle{
+    text-align: left;
+    margin-bottom: 2rem;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 30px;
+    /* margin-bottom: 50px; */
+}
+
+h2{
+
+}
+
+.content-section{
+    margin-top: 70px;
+}

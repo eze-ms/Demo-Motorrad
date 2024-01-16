@@ -1,0 +1,20 @@
+<modelo>
+    <imagen_cover>img/f800gs/f800gs_1920.webp</imagen_cover>
+    
+    <titulo_modelo>BMW F 800 GS</titulo_modelo>
+    <subTitulo_modelo>RUTAS CORTAS, GRANDES AVENTURAS</subTitulo_modelo>
+    <texto_modelo>
+        La F 750 GS te da más potencia, más comodidad y más espíritu GS. Con esta Trail versátil dominarás todos los caminos, sin importar la superficie de la calzada. Ampliarás tus horizontes, porque tú quieres más.
+        Los elementos de diseño de la F 750 GS hablan claro: la moto tiene el gen GS. La típica «flyline» es inconfundible y original. Con la vista al frente, los nuevos faros delanteros led son especialmente llamativos: todo un icono de iluminación. Y los acabados galvanizados del acabado Exclusive destacan la alta calidad de la todoterreno y encarna el espíritu GS.
+        La posición del asiento relajada pero activa y la ergonomía variable apoya tu seguridad activa y constituye una unidad entre tú y tu moto, para una conducción cómoda.
+    </texto_modelo>
+    <imagen_principal>img/f800gs/f800gs-r1.webp</imagen_principal>
+
+    <titulo_disenyo>TRES PERSONALIDADES FUERTES</titulo_disenyo>
+    <colores>
+        <color col='img/f800gs/black.jpeg' nombre='black' clase='active'>img/f800gs/tripleblack.webp</color>
+        <color col='img/f800gs/white.jpeg' nombre='white' clase='hidden'>img/f800gs/lightwhite.webp</color>
+        <color col='img/f800gs/blue.jpeg' nombre='blue' clase='hidden'>img/f800gs/sport.webp</color>
+    </colores>
+    <imagen_form>img/f800gs/f800gs.webp</imagen_form>
+</modelo>
