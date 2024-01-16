@@ -201,8 +201,6 @@ img {
     object-fit: cover;
 }
 
-
-
 .ce-image{
     object-position: 0px;
     filter: brightness(0.9); /* Ajusta el valor según la intensidad de oscurecimiento que desees */

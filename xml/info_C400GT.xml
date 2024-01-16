@@ -1,9 +1,5 @@
 <modelo>
-<<<<<<< HEAD
     <imagen_cover>img/c400gt/c400.webp</imagen_cover>
-=======
-    <imagen_cover>/img/c400gt/c400.webp</imagen_cover>
->>>>>>> c1e427274d9aa66450eb948a6e46939a444fb133
     
     <titulo_modelo>EL BMW C 400 GT</titulo_modelo>
     <subTitulo_modelo>POR TODA LA CIUDAD Y MÁS ALLÁ</subTitulo_modelo>
