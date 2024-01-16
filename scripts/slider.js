@@ -35,10 +35,10 @@ document.addEventListener('DOMContentLoaded', () => {
 	let autoplayInterval = null;
 
 	function startAutoplay(interval) {
-	    stopAutoplay();  // activa eso para para el autoplay.
-	    // autoplayInterval = setInterval(() => {
-	    //     navigate(1);  // Navega a la siguiente imagen cada intervalo de tiempo.
-	    // }, interval);
+	    // stopAutoplay();  // activa eso para para el autoplay.
+	    autoplayInterval = setInterval(() => {
+	        navigate(1);  // Navega a la siguiente imagen cada intervalo de tiempo.
+	    }, interval);
 	}
 
 	function stopAutoplay() {
