@@ -2,7 +2,7 @@
 <<<<<<< HEAD
     <imagen_cover>img/c400gt/c400.webp</imagen_cover>
 =======
-    <imagen_cover>http://www.demomotorrad.com.mialias.net/img/c400gt/c400.webp</imagen_cover>
+    <imagen_cover>/img/c400gt/c400.webp</imagen_cover>
 >>>>>>> c1e427274d9aa66450eb948a6e46939a444fb133
     
     <titulo_modelo>EL BMW C 400 GT</titulo_modelo>
@@ -12,13 +12,13 @@
         Con el C 400 GT, las posibilidades son ilimitadas: móntate, arranca, disfruta y preocúpate solo de conducir incluso más allá de las fronteras de la ciudad. 
         Gracias al nuevo sistema Ride by Wire y al sistema opcional Connected Ride con navegador, llegarás tranquilamente a tu destino. Amplía tu radio y descubre el mundo en una nueva dimensión.
     </texto_modelo>
-    <imagen_principal>http://www.demomotorrad.com.mialias.net/img/c400gt/right1.webp</imagen_principal>
+    <imagen_principal>/img/c400gt/right1.webp</imagen_principal>
 
     <titulo_disenyo>DISEÑAR PARA TU CIUDAD</titulo_disenyo>
     <colores>
-        <color col='http://www.demomotorrad.com.mialias.net/img/c400gt/black.jpeg' nombre='black' clase='active'>http://www.demomotorrad.com.mialias.net/img/c400gt/c400gt-black.webp</color>
-        <color col='http://www.demomotorrad.com.mialias.net/img/c400gt/darkblue.jpeg' nombre='blue' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/c400gt/c400gt-darkblue.webp</color>
-        <color col='http://www.demomotorrad.com.mialias.net/img/c400gt/white.jpeg' nombre='white' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/c400gt/c400gt-white.webp</color>
+        <color col='/img/c400gt/black.jpeg' nombre='black' clase='active'>img/c400gt/c400gt-black.webp</color>
+        <color col='/img/c400gt/darkblue.jpeg' nombre='blue' clase='hidden'>img/c400gt/c400gt-darkblue.webp</color>
+        <color col='img/c400gt/white.jpeg' nombre='white' clase='hidden'>img/c400gt/c400gt-white.webp</color>
     </colores>
-    <imagen_form>http://www.demomotorrad.com.mialias.net/img/c400gt/c-400-gt.webp</imagen_form>
+    <imagen_form>img/c400gt/c-400-gt.webp</imagen_form>
 </modelo>
