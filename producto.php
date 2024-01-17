@@ -2,6 +2,8 @@
     error_reporting(E_ALL);
     ini_set('display_errors', '0');
     include_once("funciones.php");
+    $base_url = "http://www.demomotorrad.com.mialias.net"; //ABEL!!
+
 
     // Obtener el modelo de la moto desde la URL
     $modelo = urldecode($_GET['modelo'] ?? '');
