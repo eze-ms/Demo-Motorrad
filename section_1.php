@@ -27,6 +27,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="box-c">
                 <img class="promo" src="img/cover_section1/c400x.webp" alt="Imagen_c400">
                 <div class="text_c">
@@ -60,7 +61,7 @@
                 </div>
             </div>
 
-            <div class="box_rookie">
+            <div class="box-rookie">
                 <img class="promo" src="img/cover_section1/rookie.webp" alt="Imagen_rookie">
                 <div class="text_rookie">
                     <p class="h1_c">Programa Rookie</p>

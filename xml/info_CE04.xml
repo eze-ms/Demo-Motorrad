@@ -1,5 +1,5 @@
 <modelo>
-    <imagen_cover>http://www.demomotorrad.com.mialias.net/img/ce04/ce04.webp</imagen_cover>
+    <imagen_cover>img/ce04/ce04.webp</imagen_cover>
     
     <titulo_modelo> BMW CE 04</titulo_modelo>
     <subTitulo_modelo>LA REVOLUCIÓN SILENCIOSA</subTitulo_modelo>
@@ -10,12 +10,12 @@
         Por eso, desde hace más de 10 años desarrollamos soluciones y conceptos para una electromovilidad urbana que actualmente significa mucho más que ir de un sitio a otro. 
         Sobre la base de este liderazgo en materia de innovación, el BMW CE 04  inicia una nueva era en cuanto a diseño y se integra perfectamente con las soluciones inteligentes de Conectividad en tu día a día.   
     </texto_modelo>
-    <imagen_principal>http://www.demomotorrad.com.mialias.net/img/ce04/right1.webp</imagen_principal>
+    <imagen_principal>img/ce04/right1.webp</imagen_principal>
 
     <titulo_disenyo>DISEÑO ÁGIL</titulo_disenyo>
     <colores>
-        <color col='http://www.demomotorrad.com.mialias.net/img/ce04/white.jpeg' nombre='red' clase='active'>http://www.demomotorrad.com.mialias.net/img/ce04/ce_white.webp</color>
-        <color col='http://www.demomotorrad.com.mialias.net/img/ce04/darkblue.jpeg' nombre='blue' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/ce04/ce_darkblue.webp</color>
+        <color col='img/ce04/white.jpeg' nombre='red' clase='active'>img/ce04/ce_white.webp</color>
+        <color col='img/ce04/darkblue.jpeg' nombre='blue' clase='hidden'>img/ce04/ce_darkblue.webp</color>
     </colores>
     <imagen_form>img/ce04/ce04_form.webp</imagen_form>
 </modelo>

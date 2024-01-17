@@ -199,7 +199,7 @@ img {
 .promos .promo:nth-child(odd):last-child {
     grid-column: 1 / 3;
 }
-.box-ce,.box-c,.box-f750,.box-r18,.box_rookie{
+.box-ce,.box-c,.box-f750,.box-r18,.box-rookie{
     position: relative;
     overflow: hidden;
 }
@@ -482,8 +482,6 @@ video{
     }
     
 }
-
-
 
 @media (max-width: 900px) {
     .content-header {

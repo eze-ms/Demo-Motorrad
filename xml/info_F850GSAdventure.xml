@@ -1,5 +1,5 @@
 <modelo>
-    <imagen_cover>http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/f-850-gs-adv.webp</imagen_cover>
+    <imagen_cover>img/f850gs_Adventure/f-850-gs-adv.webp</imagen_cover>
     
     <titulo_modelo>LA F 850 GS ADVENTURE</titulo_modelo>
     <subTitulo_modelo>EL MUNDO SE CONVIERTE EN AVENTURA</subTitulo_modelo>
@@ -7,12 +7,12 @@
         Hecha para largos trayectos y terrenos complicados: la F 850 GS  Adventure se siente como en casa por el mundo, y se le nota. 
         Con el equipamiento de serie ampliado, como la pantalla TFT y BMW Motorrad Connected, el conector de carga USB, así como ABS Pro y DTC, esta enduro de viajes está aún mejor preparada para largos viajes por el mundo. Vive el #spiritofGS con un compañero que dará rienda suelta a tu curiosidad, sea cual sea tu destino.
     </texto_modelo>
-    <imagen_principal>http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/principal.jpg</imagen_principal>
+    <imagen_principal>img/f850gs_Adventure/principal.jpg</imagen_principal>
 
     <titulo_disenyo>DISEÑO LLAMATIVO, ESTILO INDIVIDUAL</titulo_disenyo>
     <colores>
-        <color col='http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/color-silver.jpeg' nombre='silver' clase='active'>http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/f900gsa-tricolor.webp</color>
-        <color col='http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/black.jpeg' nombre='black' clase='hidden'>http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/f900gsa-black.webp</color>
+        <color col='img/f850gs_Adventure/color-silver.jpeg' nombre='silver' clase='active'>img/f850gs_Adventure/f900gsa-tricolor.webp</color>
+        <color col='img/f850gs_Adventure/black.jpeg' nombre='black' clase='hidden'>img/f850gs_Adventure/f900gsa-black.webp</color>
     </colores>
-    <imagen_form>http://www.demomotorrad.com.mialias.net/img/f850gs_Adventure/f-850-gs-adventu.webp</imagen_form>
+    <imagen_form>img/f850gs_Adventure/f-850-gs-adventu.webp</imagen_form>
 </modelo>

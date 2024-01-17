@@ -1,0 +1,22 @@
+<modelo>
+    <imagen_cover>img/g310gs_2024/original.webp</imagen_cover>
+    
+    <titulo_modelo>LA BMW G 310 GS</titulo_modelo>
+    <subTitulo_modelo>CON GANAS DE AVENTURAS TODOS LOS DÍAS</subTitulo_modelo>
+    <texto_modelo>
+        
+        Ser espontáneo. Romper con la rutina. Con la BMW G 310 convertirás tu día a día en una aventura. 
+        Gracias al motor optimizado con Ride by Wire y el embrague anti-hopping, podrás tener un mejor control tanto en la jungla urbana como en las excursiones a los alrededores. 
+        Porque las aventuras no tienen que ser lejos para ser inolvidables. 
+        Lo importante es que las vivas a diario.
+    </texto_modelo>
+    <imagen_principal>img/g310gs_2024/2024-bmw-g310.webp</imagen_principal>
+
+    <titulo_disenyo>DISEÑO LLAMATIVO, ESTILO INDIVIDUAL</titulo_disenyo>
+    <colores>
+        <color col='img/g310gs_2024/red.jpeg' nombre='red' clase='active'>img/g310gs_2024/g310gs-red.webp</color>
+        <color col='img/g310gs_2024/white-blue.jpeg' nombre='white_blue' clase='hidden'>img/g310gs_2024/g310gs-sport.webp</color>
+        <color col='img/g310gs_2024/black.jpeg' nombre='black' clase='hidden'>img/g310gs_2024/g310gs-black.webp</color>
+    </colores>
+    <imagen_form>img/g310gs_2024/g310gs.webp</imagen_form>
+</modelo>
