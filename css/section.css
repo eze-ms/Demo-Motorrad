@@ -2,7 +2,7 @@ body, h1, h2, h3, p{
     margin: 0;
     padding: 0;
     font-size: 100%;
-  }
+}
   
 #gallery {
     max-width: 100%;
@@ -16,7 +16,11 @@ body, h1, h2, h3, p{
     transition: transform 0.5s ease-in-out;
 }
   
-.gallery-item, .gallery-navigation, .video-content, video, #section_2, #section_3 {
+.gallery-item, 
+.gallery-navigation,
+.video-content, video,
+#section_2,
+#section_3 {
     width: 100%;
 }
 
@@ -34,7 +38,8 @@ img {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
-.gallery-item, .gallery-navigation{
+.gallery-item,
+.gallery-navigation{
     position: absolute;
 }
 
@@ -86,38 +91,66 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: left;
+    top: 42%;
+    bottom: 0px;
+    left: 59%;
+    right: 0%;
+}
+#slide2-texto{
+    left: 6%;
+    top: 30%;
+}
+
+#slide5-texto{
+    left: 42%;
 }
 
 .hidden{
     display: none;
 }
 
-.tittle,.text{
+.tittle_1250,
+.text_1250,
+.tittle_f900,
+.tittle_service{
     margin-left: 0;
     font-weight: 700;
+    text-shadow: 3px 12px 9px #0000006b;  
 }
 
-.content-button{
-    margin-top: 4rem;
+.tittle_1250,
+.tittle_f900,
+.tittle_service{
+    font-size: 3.4vw;
+    line-height: 62px;
 }
 
-.site-1250,.site-ce{
+.text_1250,
+.text_f900,
+.text_service{
+    font-size: 1.4vw;
+    line-height: 55px;
+    margin-left: 0;
+    text-shadow: 3px 12px 9px #0000006b;  
+}
+.site,
+.site-ce{
     border: #fff;
     color: black;
-    font-size: 1.25rem;
+    font-size: 1.4vw;    
     font-weight: 400;
     letter-spacing: 1px;
     line-height: 1.5;
     transition: background-color 0.3s; 
 }
 
-.site-1250{
+.site{
     padding: 1rem 1rem;
     color: black;    
     background-color: #fff;
 }
 
-.site-1250:hover{
+.site:hover{
     background-color: #2869d4;
     color: #fff;
 }
@@ -129,7 +162,8 @@ img {
 
 
 /* SECTION 1 */
-.section1-container,.content-tittle-modelo,.text_ce {
+.section1-container,
+.content-tittle-modelo,.text_ce {
     font-weight: 600;
     font-family: 'Noto Sans', sans-serif;
 }
@@ -198,7 +232,11 @@ img {
     grid-row: span 2;
 }
 
-.box-ce,.box-c,.box-f750,.box-r18,.box-rookie{
+.box-ce,
+.box-c,
+.box-f750,
+.box-r18,
+.box-rookie{
     position: relative;
     overflow: hidden;
 }
@@ -221,7 +259,11 @@ img {
     object-fit: cover;
 }
 
-.text_ce,.text_c,.text_f750,.text_r18,.text_rookie{
+.text_ce,
+.text_c,
+.text_f750,
+.text_r18,
+.text_rookie{
     color: #fff;
     position: absolute;
     text-align: left;
@@ -248,8 +290,8 @@ img {
 }
 
 .text_rookie{
-    top: 60px;
-    left: 70px;
+    top: 30px;
+    left: 55px;
 }
 
 .h1_c{
@@ -264,7 +306,7 @@ img {
     font-weight: 400;
 }
 
-.site{
+.site_oferta{
     background-color: #fff0;
     letter-spacing: 2px;
     color:#fff;
@@ -277,13 +319,13 @@ img {
     transition: background-color 0.5s; 
 }
 
-.site:hover{
+.site_oferta:hover{
     background-color: #fff;
     color: #000;
     text-shadow: none;
 }
 
-.box-c >.promo{
+.box-c>.promo{
     filter: brightness(0.7); 
     object-position: 0px;
 }
@@ -301,12 +343,14 @@ img {
     animation: fadeIn 1s forwards; 
     animation-delay: 1s;
 }
-#section_2,#section_3{
+#section_2,
+#section_3{
     margin-top: 8rem;
     font-family: 'Noto Sans', sans-serif;
 }
 
-.video-content, video{
+.video-content, 
+video{
     height: 100%;
 }
 
@@ -370,7 +414,8 @@ video{
     display: grid;
 }
 
-.box_news_section_one,.box_news_section_two.active{
+.box_news_section_one,
+.box_news_section_two.active{
     padding: 0 4rem 0;
     gap: 20px;
     grid-template-columns: repeat(3, 1fr); 
@@ -405,7 +450,7 @@ video{
     filter: brightness(80%);
 }
 
-.box_news>.titulo_news {
+.box_news>.titulo_news{
     font-weight: 700;
 }
 
@@ -439,7 +484,7 @@ video{
     text-align: center;
 }
 
-#button {
+#button{
     margin: auto;
     border: 1px solid #2869d4;
     color: #ffffff;
@@ -459,48 +504,14 @@ video{
 
 /* Estilos generales para todas las pantallas */
 
-@media only screen and (min-width: 1441px) and (max-width: 2284px) {
-    .content-tittle-modelo {
-        top: 42%;
-        bottom: 0px;
-        left: 59%;
-        right: 0%;
-}
-
-    .tittle{
-        font-size: 5rem;
-        line-height: 62px;
-    }
-
-    .text{
-        font-size: 2rem;
-        line-height: 55px;
-    }
-}
-
-@media only screen and (max-width: 1440px){
-    .tittle{
-        font-size: 4rem;
-        line-height: 62px;
-    }
-
-    .text{
-        font-size: 1.75rem;
-        line-height: 55px;
-    }
-    
-}
-
 @media (max-width: 900px) {
     .content-header {
       padding:0;
     }
-  
     .module_logo {
       width: 15% ;
     }
 }
-  
 
 @media (max-width: 498px) and (orientation: landscape) {
 
@@ -516,6 +527,4 @@ video{
         top: 87%;
         left: 0px;
     }
-}
-
-  
+}  

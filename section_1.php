@@ -23,7 +23,7 @@
                     <p class="h1_c">BMW CE 04</p>
                     <p class="text_oferta">100% eléctrico desde 159€/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site">Más información</button></a>
+                        <a href="#"><button class="site_oferta">Más información</button></a>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                     <p class="h1_c">GAMA C 400</p>
                     <p class="text_oferta">Con connected Ride y mantenimiento incluido desde 89€/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site">Más información</button></a>
+                        <a href="#"><button class="site_oferta">Más información</button></a>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     <p class="h1_c">BMW F 750 GS</p>
                     <p class="text_oferta">Ahora sin entrada y con Connected Ride incluido desde 155 €/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site">Más información</button></a>
+                        <a href="#"><button class="site_oferta">Más información</button></a>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <p class="h1_c">BMW R 18</p>
                     <p class="text_oferta">Desde 195 €/mes</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site">Más información</button></a>
+                        <a href="#"><button class="site_oferta">Más información</button></a>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                     <p class="h1_c">Programa Rookie</p>
                     <p class="text_oferta">Ahora t G 310 al 0%. = entrada, 0% comisiones, 0% TAE</p>
                     <div class="content-button-oferta">
-                        <a href="#"><button class="site">Más información</button></a>
+                        <a href="#"><button class="site_oferta">Más información</button></a>
                     </div>
                 </div>
             </div>

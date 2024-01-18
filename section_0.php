@@ -12,25 +12,25 @@
 </div>
 
 <div id="slide1-texto" class="content-tittle-modelo texto-slider">
-    <span class="tittle ">NUEVA R 1250 GS</span>
-    <span class="text">No seas seguidor, márcate tú el camino</span>
+    <span class="tittle_1250 ">NUEVA R 1250 GS</span>
+    <span class="text_1250">No seas seguidor, márcate tú el camino</span>
     <div class="content-button">
-        <a href="#"><button class="site-1250">Descúbrela</button></a>
+        <a href="#"><button class="site">Descúbrela</button></a>
     </div>
 </div>
 
 <div id="slide2-texto" class="content-tittle-modelo hidden texto-slider">
-    <span class="tittle ">LA F 900 XR</span>
-    <span class="text">Preparada para la carretera </span>
+    <span class="tittle_f900">LA F 900 XR</span>
+    <span class="text_f900">Preparada para la carretera </span>
     <div class="content-button">
-        <a href="#"><button class="site-1250">Descúbrela</button></a>
+        <a href="#"><button class="site">Descúbrela</button></a>
     </div>
 </div>
 
 <div id="slide5-texto" class="content-tittle-modelo hidden texto-slider">
-    <span class="tittle ">RECOGIDA Y ENTREGA GRATUITA</span>
-    <span class="text">Recogeremos tu moto y te la llevaremos a casa, para cualquier ITV o servicio...</span>
+    <span class="tittle_service ">RECOGIDA Y ENTREGA GRATUITA</span>
+    <span class="text_service">Recogeremos tu moto y te la llevaremos a casa, para cualquier ITV o servicio...</span>
     <div class="content-button">
-        <a href="#"><button class="site-1250">Más información</button></a>
+        <a href="#"><button class="site">Más información</button></a>
     </div>
 </div>
