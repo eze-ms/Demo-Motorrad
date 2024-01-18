@@ -1,0 +1,20 @@
+<modelo>
+    <imagen_cover>img/f900xr_2024/original.webp</imagen_cover>
+    
+    <titulo_modelo>LA NUEVA BMW F 900 XR</titulo_modelo>
+    <subTitulo_modelo>MÁS ALTO, MÁS RÁPIDO, MÁS LEJOS</subTitulo_modelo>
+    <texto_modelo>
+        La XR representa la unión sin concesiones entre deportividad y rendimiento en largos trayectos: adrenalina día tras día, curva a curva.
+        Con la nueva F 900 XR, disfrutas las curvas de principio a fin, kilómetro a kilómetro. Su cautivador diseño ya promete rendimiento en estado puro. Además, la posición de conducción relajada y erguida, así como la protección contra el viento y las inclemencias climatológicas, indican que solo tú decides cuando el viaje llega a su fin.
+        Gracias al equipamiento completo, estarás igual de bien preparado tanto para el deporte como para los viajes o la ciudad.
+        La F 900 XR es la moto que se adapta a ti y a tu configuración deportiva. #neverstopchallenging    
+    </texto_modelo>
+    <imagen_principal>img/f900xr_2024/f900xr-r0.webp</imagen_principal>
+
+    <titulo_disenyo>LENGUAJE CORPORAL INEQUÍVOCO</titulo_disenyo>
+    <colores>
+        <color col='img/f900xr_2024/blue.jpeg' nombre='blue' clase='active'>img/f900xr_2024/f800xr-blue.webp</color>
+        <color col='img/f900xr_2024/black.jpeg' nombre='black' clase='hidden'>img/f900xr_2024/f900xr-black.webp</color>
+    </colores>
+    <imagen_form>img/f900xr_2024/f-900-xr.webp</imagen_form>
+</modelo>
